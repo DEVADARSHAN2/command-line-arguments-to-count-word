@@ -19,8 +19,8 @@ Print number of words present in given file.
 End of the program.
 ## PROGRAM:
 ```
-DEVELOPED BY: A.Ashwin Kumar
-REGISTER NO: 22001702
+DEVELOPED BY: DEVDARSHAN A S
+REGISTER NO: 212222110007
 
 import sys
 fp= open(sys.argv[1])
